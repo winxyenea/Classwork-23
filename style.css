@@ -1,0 +1,37 @@
+body{
+    border: solid black 1px;
+    padding-left: 19px;
+    width: 300px;
+    background-color: #E5E5E5;
+    
+   
+   
+    
+}
+textarea{
+    width: 200px;
+}
+.interests{
+    display:block;
+}
+
+button{
+    width: 300px;
+    height: 35px;
+    color: white;
+    background-color:#499EA2;
+    border-radius: 5px;
+}
+.theclass{
+    margin: 0px;
+}
+.theinput{
+    width: 290px;
+    height: 30px;
+}
+
+
+
+
+
+
